@@ -7,3 +7,6 @@
 
 *** Important ***
 - Please download the files with the main zip folder named as '<b>custom_bs_gallery</b>' and then upload the zip files in the WP backend
+
+*** Plugin Demo URL ***
+https://burhan-dummy-project.000webhostapp.com/plugin-demo
